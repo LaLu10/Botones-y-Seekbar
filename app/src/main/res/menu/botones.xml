@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itBotones"
+        android:icon="@drawable/ic_baseline_radio_button_checked_24"
+        android:title="Botones" />
+    <item
+        android:id="@+id/itPower"
+        android:icon="@drawable/ic_baseline_power_settings_new_24"
+        android:title="Power" />
+    <item
+        android:id="@+id/itVolumen"
+        android:icon="@drawable/ic_baseline_volume_up_24"
+        android:title="Volumen" />
+</menu>
